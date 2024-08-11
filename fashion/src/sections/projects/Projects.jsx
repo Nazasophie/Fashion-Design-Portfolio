@@ -33,55 +33,55 @@ const Projects = ({ title, subtitle, note }) => {
             <div className="project-container">
                 <div className="project">
                     <img src={helpinghandsImage} className="project-image" alt="helpinghands consultancy banner" />
-                    <a href='https://helpinghandsconsultancyafrica.com/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1J_9jBd4AFZvHoTm8pbAwHbWLZSjPJdgt/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={zecnetImage} className="project-image" alt="zecnet tech image" />
-                    <a href='https://zecnet-tech.com/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1Jmk1hdYugms6cX-U2v23poinGKOkAvw-/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={brandleepImage} className="project-image" alt="brandleep image" />
-                    <a href='https://brandleep.com/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1Jpw6ys7kqVo0r1GS-pS80JHZ63aXM3qE/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={praiseImage} className="project-image" alt="praise child care" />
-                    <a href='https://praisechildcare.ca/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1JtcWvbhzKvrP62slsOWFKuhi-Ps676Fm/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={baynetfuseImage} className="project-image" alt="student tax help" />
-                    <a href='https://baynetfuse.com/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1JgSJLJcv82rsmkKlY4GmhqZr8JmgNtdP/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={zionbarsImage} className="project-image" alt="zionbars banner" />
-                    <a href='https://zionbars.com/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1J_9jBd4AFZvHoTm8pbAwHbWLZSjPJdgt/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={koinwaImage} className="project-image" alt="koinwa image" />
-                    <a href='https://edublok.koinwa.com/koinwa/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1Jf47lo_e4Wm5FSPRjZhhZH-nThoj6TGo/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={magnumopusImage} className="project-image" alt="student tax help" />
-                    <a href='https://magnumopus.com.ng/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1K7tlF0t_AxBu_tdyTYV6H0vwxw26AyUc/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={onomeImage} className="project-image" alt="student tax help" />
-                    <a href='https://onomefoodmarket.com/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1KJTFD437MIQFKZoEoDT9Eijwh0uWsamf/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
