@@ -87,13 +87,13 @@ const Projects = ({ title, subtitle, note }) => {
                 </div>
                 <div className="project">
                     <img src={studentTaxHelpImage} className="project-image" alt="student tax help" />
-                    <a href='https://studenttaxhelp.ca/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1LN0ykpvNO4adscW3LYSBFKCk0ptTBmHf/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
                 <div className="project">
                     <img src={rulebornImage} className="project-image" alt="student tax help" />
-                    <a href='https://rulebornintegrated.com/' target='_blank' rel="noreferrer">
+                    <a href='https://drive.google.com/file/d/1L3MlWGdxSg1Yrn5PNzPkiseywKxR8d7i/view?usp=drivesdk' target='_blank' rel="noreferrer">
                         <Button name={'Check it out'} />
                     </a>
                 </div>
